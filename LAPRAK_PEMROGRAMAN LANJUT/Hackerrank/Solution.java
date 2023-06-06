@@ -8,8 +8,7 @@ class Buah {
 
     public Buah(String nama, int stok){
         this.nama = nama;
-        this.stok = stok;
-        
+        this.stok = stok;   
     }
     
     void jualBeli(int jumlah){
